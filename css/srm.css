@@ -1,0 +1,41 @@
+.avail{
+	color:#060;
+}
+.padd{
+margin-top:6px;
+margin-right:2px;
+}
+.open{
+	font-size:36px;
+	padding:10px;
+}
+.contain{
+	background-color:#F1F1F1;
+	border:#333;
+	box-shadow:#999 2px 2px 2px;
+	padding:10px;
+	margin-bottom:30px;
+	margin-top:-20px;
+	border-radius:10px;	
+	width:320px;
+	
+}
+.back{
+	background-color:#CCC;
+	
+}
+
+.center{
+	height: 300px;
+	width: 400px;
+	position:relative;
+	top:100px;
+	
+}
+.center2{
+	height:250px;
+	width:400px;
+	position:relative;
+	top:100px;
+	
+}

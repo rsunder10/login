@@ -1,0 +1,1 @@
+Import the Sql in phpmyadmin under login database;
